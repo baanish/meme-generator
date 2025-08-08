@@ -1,5 +1,4 @@
 ffmpeg-python==0.2.0
 # yt-dlp==2024.8.6 # Temporarily exclude
 # whisper-timestamped==1.15.4 # Temporarily exclude
-# setuptools==78.1.1 # Keep this as it was a specific fix
 setuptools==78.1.1
