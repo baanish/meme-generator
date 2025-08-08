@@ -75,7 +75,7 @@ def main():
         # output subtitles to file
         with open('subtitles.srt', 'w') as f:
             segment_id = 1
-            for segment_data in segments: # Renamed to avoid conflict with outer 'subtitle' variable
+            for segment_data in segments:
                 start_time = str(0)+str(timedelta(seconds=int(segment_data['start'])))+',000'
                 end_time = str(0)+str(timedelta(seconds=int(segment_data['end'])))+',000'
                 text = segment_data['text'].strip()
