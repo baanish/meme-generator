@@ -25,7 +25,7 @@ pytube==15.0.0
 regex==2024.9.11
 requests==2.32.3
 scipy==1.14.1
-setuptools==74.1.2
+setuptools==78.1.1
 six==1.16.0
 sympy==1.13.2
 tiktoken==0.7.0
