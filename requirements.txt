@@ -6,7 +6,7 @@ Cython==3.0.11
 dtw-python==1.5.3
 ffmpeg==1.4
 ffmpeg-python==0.2.0
-filelock==3.20.1
+filelock==3.20.3
 fsspec==2024.9.0
 future==1.0.0
 idna==3.9
@@ -29,10 +29,10 @@ setuptools==78.1.1
 six==1.16.0
 sympy==1.13.2
 tiktoken==0.7.0
-torch==2.7.1
+torch==2.8.0
 tqdm==4.66.5
 typing_extensions==4.12.2
-urllib3==2.5.0
+urllib3==2.6.3
 websockets==13.0.1
 whisper==1.1.10
 whisper-timestamped==1.15.4
